@@ -1,6 +1,16 @@
 {
-  "name": "web",
-  "version": "0.1.0",
+  "name": "explain-ai-web",
+  "version": "1.0.0",
+  "description": "AI-powered code explanation platform - Frontend application",
+  "author": {
+    "name": "Abdi Frost",
+    "url": "https://abdifrost.vercel.app"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/abdi-frost/explain-ai"
+  },
   "private": true,
   "scripts": {
     "dev": "next dev",
